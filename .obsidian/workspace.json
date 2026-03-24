@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "3cee97f32498a2fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "59dc0b11c174cd3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f6c90c1e453dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emne 2/MCQ 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCQ 2"
+            }
+          },
+          {
+            "id": "9b020bf83f6a017d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Emne 4/Eddington_experiment_Wikipedia.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Eddington_experiment_Wikipedia"
+            }
+          },
+          {
+            "id": "16be86c1e314b82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emne 2/Emne2_DataKIRobotV4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emne2_DataKIRobotV4"
+            }
+          },
+          {
+            "id": "c3cc835a075af233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emne 2/Noter til \"Data will solve robotics and automation True or false?” A debate\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noter til \"Data will solve robotics and automation True or false?” A debate\""
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75fd5a3ed27932e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc02ba17da2000e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4234bfed5eb7b07e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0aa03c1d9ed48bb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "419fc3250c769fcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afe6b5e027aeac1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f8a05f2f07fe05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47580716c4cad55a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lektion 1/Biever_TheEasyIntelligentTest_Nature2023.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Biever_TheEasyIntelligentTest_Nature2023"
+            }
+          },
+          {
+            "id": "fd6f905336844e08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lektion 1/Biever_TheEasyIntelligentTest_Nature2023.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Biever_TheEasyIntelligentTest_Nature2023"
+            }
+          },
+          {
+            "id": "89874aa53db68aa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb3d0e3eba63fe3f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df9f125e454209f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lektion 1/Biever_TheEasyIntelligentTest_Nature2023.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Biever_TheEasyIntelligentTest_Nature2023"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9b020bf83f6a017d",
+  "lastOpenFiles": [
+    "Generelle Kursusnoter/Problemformulæring.md",
+    "Emne 4/Emne4_EuklidEinsteinKuhnV2.md",
+    "Emne 4/Eddington_experiment_Wikipedia.pdf",
+    "Emne 4/Kennefick_Phystoday_2009.pdf",
+    "Emne 4/LindaAhrenkielPositivisme2020.pdf",
+    "Emne 3/VidenskabensFremkomst.md",
+    "Emne 3/VidenskabensFremkomst_2.md",
+    "Generelle Kursusnoter/Oversigter.md",
+    "images/Problemformulæring/slide_009.png",
+    "images/Problemformulæring/slide_008.png",
+    "images/Problemformulæring/slide_007.png",
+    "images/Problemformulæring/slide_006.png",
+    "images/Problemformulæring/slide_005.png",
+    "images/Problemformulæring/slide_004.png",
+    "images/Problemformulæring/slide_003.png",
+    "images/Problemformulæring/slide_002.png",
+    "images/Problemformulæring/slide_001.png",
+    "images/Problemformulæring",
+    "Generelle Kursusnoter/Problemformulæring.pdf",
+    "images/Emne3_EuklidEinsteinKuhnV2/slide_081.png",
+    "images/Emne3_EuklidEinsteinKuhnV2",
+    "Emne 3/Aanen_EvolutionTheory.md",
+    "Emne 4",
+    "images/VidenskabensFremkomst_2",
+    "Emne 3/ANewHeavenAndNewEarth.pdf",
+    "Emne 2/Orr on Darwin 2009.pdf",
+    "Emne 2/Emne2_DataKIRobotV4.md",
+    "Emne 2/Noter til \"Data will solve robotics and automation True or false?” A debate\".md",
+    "Emne 2/MCQ 2.md",
+    "Emne 2/Noter til \"The Easy Intelligence Tests That AI Chatbots Fail.md",
+    "Emne 2/Untitled.md",
+    "Generelle Kursusnoter/Kursus Struktur.md",
+    "Generelle Kursusnoter/Eksamen.md",
+    "Lektion 1/Emne2_DataKIRobotV4.md",
+    "Lektion 1/Emne1_HvadErVidenskabsteoriV2.md",
+    "Lektion 1.md",
+    "Welcome.md"
+  ]
+}

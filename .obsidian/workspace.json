@@ -4,96 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "59dc0b11c174cd3c",
+        "id": "cfaea0dddc27564b",
         "type": "tabs",
         "children": [
           {
-            "id": "85f6c90c1e453dc1",
+            "id": "3835894bdb07c039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emne 2/MCQ 2.md",
+                "file": "keyword_library/01_Emne_1_Hvad_er_videnskabsteori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCQ 2"
-            }
-          },
-          {
-            "id": "c3cc835a075af233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emne 7/Morten_7_lektion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morten_7_lektion"
-            }
-          },
-          {
-            "id": "abdc03019a4842b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emne 8/8_lektion_OphavsretVidensbeskytPlagi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8_lektion_OphavsretVidensbeskytPlagi"
-            }
-          },
-          {
-            "id": "5ea5cb247f683f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emne 8/Emne8_OphavsretVidensbeskytPlagi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emne8_OphavsretVidensbeskytPlagi"
-            }
-          },
-          {
-            "id": "dc682bd9d677757c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Emne 1/O. Stæhr-Nielsens keramikrelief Videnskabernes Træ.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "O. Stæhr-Nielsens keramikrelief Videnskabernes Træ"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "c9e444a315b7cbac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac5411a4f4de043b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generelle Kursusnoter/Course Overview (Norbert).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course Overview (Norbert)"
+              "title": "01_Emne_1_Hvad_er_videnskabsteori"
             }
           }
         ]
@@ -128,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epicykler",
+                "query": "tag:#emne3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,36 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc682bd9d677757c",
+  "active": "3835894bdb07c039",
   "lastOpenFiles": [
-    "Generelle Kursusnoter/Course Overview (Norbert).md",
-    "Emne 1/O. Stæhr-Nielsens keramikrelief Videnskabernes Træ.pdf",
-    "Emne 6/BouInaniaMadrasaWikipedia.pdf",
-    "Emne 6/Henrik Dahl, LA - 2015.09.06 - Politiken.pdf",
-    "Emne 6/RethinkingEngineeringEducationChapter10.pdf",
-    "Emne 6",
-    "Emne 3/Orr on Darwin 2009.pdf",
-    "Emne 3/JonathanSmith_HuxleyWilberforceDebate.pdf",
-    "Emne 1/Arias_ChatGPTsArtificialEmpathy_TheConversation2024.pdf",
     "Emne 1/Emne1_HvadErVidenskabsteoriV2.pdf",
-    "Emne 2/Emne2_DataKIRobotV4.md",
-    "Emne 2/Emne2_DataKIRobotV4.pdf",
-    "Emne 2/Noter til The Easy Intelligence Tests That AI Chatbots Fail.md",
-    "Emne 2/Noter til Data will solve robotics and automation True or false A debate.md",
-    "Emne 8/Emne8_OphavsretVidensbeskytPlagi.md",
-    "Generelle Kursusnoter/Oversigter.md",
-    "Generelle Kursusnoter/Problemformulæring.md",
-    "Generelle Kursusnoter/Kursus Struktur.md",
-    "Emne 9/9_Fremtidens_Teknologier_og_menneskehedens_fremtid.md",
-    "Emne 9/Emne9_FremtidensTeknologierV4.md",
-    "Emne 8/8_lektion_OphavsretVidensbeskytPlagi.md",
-    "Generelle Kursusnoter/exam.md",
-    "Untitled.md",
-    "Generelle Kursusnoter/Eksamen.md",
-    "Emne 7/Morten_7_lektion.md",
+    "Emne 2/Orr on Darwin 2009.pdf",
     "Emne 2/Untitled.md",
-    "uge14pres.md",
-    "Emne 2/MCQ 2.md",
+    "Emne 2/Emne2_DataKIRobotV4.pdf",
+    "keyword_library/10_Emne_9_Fremtidens_teknologier.md",
+    "Emne 9/9_emne.md",
+    "keyword_library/09_Emne_8_Ophavsret_vidensbeskyttelse_og_plagiat.md",
+    "keyword_library/08_Etik_i_ingenioerarbejde.md",
+    "keyword_library/07_Universitetshistorie.md",
+    "keyword_library/06_Emne_5_Atomer_atombomben_og_etik.md",
+    "keyword_library/05_Emne_4_Euklid_Einstein_og_Kuhn.md",
+    "keyword_library/04_Videnskabens_fremkomst_2.md",
+    "keyword_library/03_Videnskabens_fremkomst.md",
+    "keyword_library/02_Emne_2_Datalogi_KI_og_robotteknologi.md",
+    "keyword_library/01_Emne_1_Hvad_er_videnskabsteori.md",
+    "keyword_library/00_Index.md",
+    "Generelle Kursusnoter/Course_Overview.md",
+    "Emne 1/1_emne.md",
+    "keyword_library/andre 1.md",
+    "Emne 8/8_emne.md",
+    "andre 1.md",
+    "old/8_emne.md",
+    "Emne 7/7_emne.md",
+    "Emne 6/6_emne.md",
+    "Emne 6/e6_litteratur_videoer.md",
+    "Emne 5/5_emne.md",
+    "Emne 5/e5_litteratur_videoer.md",
+    "Emne 4/4_emne.md",
+    "old",
+    "linked_emne_filer",
+    "Emne 7/etik.pdf",
+    "keyword_library",
+    "obsidian_keywords",
+    "obsidian_noegleord_videnskabsteori/obsidian_keywords",
+    "obsidian_noegleord_videnskabsteori",
+    "Emne 5/DR_SDU_saadan_virker_en_atombombe.pdf",
     "images/Pasted image 20260414152313.png",
     "images/Pasted image 20260414152255.png",
     "images/Pasted image 20260414152249.png",
@@ -297,13 +230,6 @@
     "images/Emne8_OphavsretVidensbeskytPlagi/slide_046.png",
     "images/Emne8_OphavsretVidensbeskytPlagi/slide_045.png",
     "images/Emne8_OphavsretVidensbeskytPlagi/slide_044.png",
-    "images/Emne8_OphavsretVidensbeskytPlagi/slide_043.png",
-    "Generelle Kursusnoter/powerpoint til pdf.md",
-    "Emne 3/VidenskabensFremkomst.md",
-    "Emne5/Emne5_AtomerBombenEtikV2.md",
-    "Emne 4/Emne4_EuklidEinsteinKuhnV2.md",
-    "Emne 3/VidenskabensFremkomst_2.md",
-    "MCQtests/MCQ5.md",
-    "MCQtests/MCQ3.md"
+    "images/Emne8_OphavsretVidensbeskytPlagi/slide_043.png"
   ]
 }

@@ -1,4 +1,7 @@
 
+[[EXAM LITERATURE]]
+
+
 _Hvad er videnskab og hvad er videnskabsteori?_ _Videnskabens udvikling_
 
 - [[1_emne]]: Indledning: [[Emne1_HvadErVidenskabsteoriV2.pdf]]

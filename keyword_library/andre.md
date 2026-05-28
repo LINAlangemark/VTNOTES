@@ -1452,3 +1452,121 @@ Stikord fra kursusmaterialet; bruges som kort referencepunkt i emnet og kan uddy
 ## årsag-virkning
 
 Sammenhæng hvor én faktor antages at frembringe eller påvirke en anden.
+
+# Tilføjede nøgleord
+
+## abstract reasoning
+
+Evnen til at identificere underliggende begreber, regler eller relationer og anvende dem på nye situationer.
+
+## Abstraction and Reasoning Corpus
+
+AI-benchmark udviklet af François Chollet til at teste abstraktion og regeloverførsel i visuelle mønsteropgaver; forkortes ofte ARC.
+
+## anthropomorphization
+
+Tendens til at tillægge ikke-menneskelige systemer menneskelige tanker, følelser eller intentioner; særligt relevant ved chatbots og sociale robotter.
+
+## benchmarking
+
+Systematisk test af et systems performance på standardiserede opgaver, ofte for at sammenligne modeller, metoder eller teknologier.
+
+## contamination
+
+Problem hvor testdata eller lignende eksempler allerede findes i en models træningsdata, så en høj score kan skyldes genkendelse frem for egentlig generalisering.
+
+## data reduction
+
+Bearbejdning af rå måledata til et mere brugbart datasæt eller resultat, fx gennem korrektion, filtrering, skalering og beregning.
+
+## data-driven robotics
+
+Robottilgang hvor adfærd, perception eller kontrol i høj grad læres fra data frem for at blive fuldt programmeret gennem eksplicitte regler og modeller.
+
+## demonstration data
+
+Eksempler på en opgave udført af mennesker eller robotter, som bruges til at træne et system til at efterligne eller generalisere handlingen.
+
+## end-to-end learning
+
+Maskinlæring hvor et system lærer en direkte mapping fra input til output, fx fra sanseindtryk til handling, uden mange eksplicitte mellemtrin.
+
+## French Royal Academy of Sciences
+
+Fransk videnskabeligt akademi grundlagt i 1666 under Ludvig XIV; vigtig institution for professionalisering og statslig støtte til videnskab.
+
+## generalizable autonomy
+
+Robotters eller AI-systemers evne til at fungere autonomt på tværs af nye opgaver, miljøer og situationer uden specifik omprogrammering.
+
+## Hermeticism
+
+Renæssancens hermetiske tradition, hvor naturen blev forstået som levende, symbolsk og gennemstrømmet af skjulte kræfter; havde betydning for tidlig moderne naturstudier og magi.
+
+## imitation learning
+
+Maskinlæringsmetode hvor et system lærer adfærd ved at efterligne demonstrationer i stedet for kun at optimere ud fra eksplicit belønning.
+
+## inductive bias
+
+Forudindbygget antagelse eller præference i en model, som gør læring mulig ved at styre, hvilke mønstre modellen lettere finder.
+
+## instrumentfejl
+
+Fejl eller usikkerhed der skyldes måleinstrumentets konstruktion, kalibrering, stabilitet eller brugssituation.
+
+## model-based methods
+
+Metoder der bruger eksplicitte modeller af system, fysik, geometri eller dynamik til at planlægge, styre eller forklare adfærd.
+
+## model-free methods
+
+Metoder der lærer adfærd direkte fra data eller erfaring uden en eksplicit intern model af systemets fysik eller dynamik.
+
+## naturfilosofi
+
+Historisk betegnelse for studiet af naturen før moderne naturvidenskab blev institutionaliseret som selvstændige fag.
+
+## naturlove
+
+Generelle regelmæssigheder i naturen, ofte udtrykt matematisk, som beskriver eller forklarer fysiske fænomener.
+
+## predictor effect
+
+Bias hvor forskeres forventninger eller teoretiske forhåndsantagelser kan påvirke, hvordan eksperimentelle data vurderes eller udvælges.
+
+## Ptolemæisk-Aristotelisk verdensbillede
+
+Middelalderligt verdensbillede hvor Jorden står stille i centrum, himmellegemer bevæger sig i perfekte cirkler, og kosmos forstås gennem Ptolemæus, Aristoteles og kristen teologi.
+
+## reanalyse
+
+Ny analyse af eksisterende data, ofte med forbedrede metoder, nye modeller eller bedre forståelse af fejlkilder.
+
+## Renaissance humanism
+
+Renæssancebevægelse der vendte tilbage til antikke tekster og sprog; bidrog til kritik af autoriteter og nye læsninger af naturfilosofiske kilder.
+
+## robot foundation models
+
+Store, generelle modeller trænet på brede robot- eller handlingsdata, som kan tilpasses mange forskellige robotopgaver.
+
+## Royal Society
+
+Engelsk videnskabeligt selskab formelt chartret i 1662; vigtig institution for eksperimentel videnskab, videnskabelig kommunikation og tidsskrifter.
+
+## sekularisering
+
+Proces hvor religion får mindre autoritet over samfund, politik, viden eller verdensforklaring.
+
+## self-supervised learning
+
+Maskinlæring hvor systemet lærer fra data ved at skabe sine egne træningssignaler, fx ved at forudsige manglende dele af input.
+
+## theory of mind
+
+Evnen til at forstå eller forudsige andres mentale tilstande, fx viden, intentioner, ønsker og overbevisninger.
+
+## videnskabelige selskaber
+
+Institutioner hvor forskere mødes, deler resultater, vurderer hinandens arbejde og organiserer videnskabelig kommunikation.

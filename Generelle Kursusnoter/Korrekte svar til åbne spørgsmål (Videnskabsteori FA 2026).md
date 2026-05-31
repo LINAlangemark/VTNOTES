@@ -1,4 +1,3 @@
-**Korrekte svar til åbne spørgsmål (Videnskabsteori FA 2026)**
 
 **MCQ1**
 
@@ -8,11 +7,14 @@ Geiger-tæller er et måleinstrument til måling af radioaktivitet af et miljø.
 
 Geiger er navnet på opfinderen der fandt på instrumentet og fænomenet
 
--
+**"I teksten bruges “Geiger” i en analogi for at vi ikke har et måleinstrumet til intelligens. Geiger-tællere er et instrument til måling af radioaktivitet."**
+
 
 _Forklar, hvorfor høje resultater på professionelle eksamener kan indikere generel intelligens hos mennesker, men ikke nødvendigvis hos LLM'er. [max 30 ord]_
 
 Fordi det materiale som LLM’erne er træne på kan indeholde ligende spørgsmål som eksamner, så det ender med at LLM’en slår op i sit træningsdata, uden at have lært noget.
+
+**En LLM kan være trænet på specifikke opgavetyper og genbruge lærte svarmønstre. Menneskers eksamenspræstationer afspejler derimod ofte bredere kognitive evner, problemløsning, forståelse og tilpasningsevne.**
 
 _-_
 
@@ -20,11 +22,19 @@ _Hvad er betydningen af udtrykket "Rubicon" i teksten, og hvilken historisk begi
 
 Rubicon er en flod som Cæsar valgte at krydse som startede en krig, da det var imod loven. Her bruges det for at henvise at der findes ikke den ene test, som afslører om eksistensen af intelligens.
 
+**"Udtrykket “Rubicon” bruges som en metafor for et vendepunkt, hvorefter effektiv måling af intelligens hos AIs er fastlagt. Den historiske begivenhed er Ceasars krydsning af Rubicon-floden."**
+
+Hvorfor kan test af AI-systemer med let modificerede versioner af standardspørgsmål afsløre mere end test med de originale spørgsmål? [max 30 ord]
+
+**"Det er ofte  fordi LLMer er trænet på specifikke opgavestrukturer, hvis der er en afvigelse  bryder det med dens lærte svarmønstre, med den konsekvens at den svarer forkert."**
+
 **MCQ2**
 
 _Hvad betyder begrebet "paradigmeskift” (max 30 ord)_
 
 Ordet paradigmeskift beskriver en ændring i den måde man konventionelt gør “ting”. I dette tilfælde: Konventionelt laver man kontrol fra modeller, paradigmeskiftet er til at kontrol laves ud fra data.
+
+**"paradigmeksift er når der sker en stor kulturel eller fundamental ændring i måden hvorpå et eller andet fungere på, såsom eisnteins relativitetsteori vs newton."**
 
 **MCQ3**
 
@@ -70,38 +80,3 @@ Kvantificering:  
 _Hvad menes der med begrebet "bias" i artiklen "Testing relativity from the 1919 eclipse"? (max 30 ord, opgaven giver 3 point)_
 
 Der menes at forskernes forventninger eller valg kan have indflydelse på resultatet, så deres “bias” altså underbevidst kommer til at støtte relativitetsteorien.
-
-  
-  
-
-**MCQ 7**
-
-_Nævn et argument for og et argument imod J. Robert Oppenheimers følgende udtalelser på baggrund af nutidens viden. [max 30 ord, 2 point]_
-
-_"Atombomben gjorde udsigten til fremtidige krige uudholdelig. Det har ført os de sidste skridt til bjergpasset, og på den anden side findes et andet land."_ 
-
-for: Ingen tør angribe andre, da det kunne skabe udryddelse af hele planeten.
-
-imod: Der sker stadig krige, men nu er det også om, hvem der har adgang til atombomber
-
-_-_
-
-_Karl Benz' benzinmotor fra 1879 førte til massiv global opvarmning – en konsekvens han næppe forudså. Giv tre eksempler på teknologier, der er kommet på markedet i det 21. århundrede, og beskriv en mulig risiko for hver af dem. [15 ord, 3 point]_
-
-_Eksempel: benzinmotor – global opvarmning_
-
-smartphones – afhængighed og overvågning  
-sociale medier – misinformation og polarisering  
-kunstig intelligens – jobtab og bias
-
-**MCQ 8**
-
-_Forklar hvordan Eddington-ekspeditionen kan bruges til at belyse Poppers forståelse af videnskab (max 15 ord, 0 point hvis du bruger flere ord)_
-
-Ekspeditionen søgte at udføre et eksperiment der potentielt kunne falsificere en hypotese.
-
-_-_
-
-_Nævn en teori eller model, der blev bevaret ved hjælp af hjælpeantagelser frem for ændring af dens kerne. (max 5 ord, 0 point hvis du bruger flere ord)_
-
-Heliocentrisme vha. epicykler mm.

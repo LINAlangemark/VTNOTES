@@ -30,6 +30,19 @@ keywords:: [[02_Emne_2_Datalogi_KI_og_robotteknologi|robotteknologi]], [[andre 1
 - Eksamen-vinkel: brug teksten som case på nutidigt paradigmeskift i robotteknologi: [[andre 1#data-driven robotics|data-driven robotics]] udfordrer, men erstatter ikke nødvendigvis, klassisk modelbaseret ingeniørvidenskab.
 - Kobling: passer godt sammen med Kuhn, fordi debatten viser en faglig kamp mellem to forskellige idealer for god videnskab: teori/modeller versus data/skalering.
 
+Billard Astronomy Analogy:
+> ([[AmatoEtAl_DataWill_ICRA2025.pdf#page=2&selection=91,0,109,40|AmatoEtAl_DataWill_ICRA2025, p.2]])
+> Consider astronomy: It started off with the simple observation of the sky. But thousands of people look at the sky each day, and millions have before. Although they all marvel at its beauty, most of these people, if asked, would be incapable of explaining the reason why the stars are aligned as they are or distinguishing stars from planets. Astronomers from ancient civilizations ago did not use these millions of human eye observations to decipher the underlying laws of physics. Rather, they used few but meticulously gathered data points. Most importantly, they constantly went back and forth from building hypothetical models to data to test their theories. Some argue that what was true for hardcore science does not apply to robotics.
+
+Garg, Foundation Models:
+> ([[AmatoEtAl_DataWill_ICRA2025.pdf#page=2&selection=65,1,71,25|AmatoEtAl_DataWill_ICRA2025, p.2]])
+> obotics remains a collection of disparate communities. A potential solution lies in adopting the foundation model perspective, which could unify many seemingly unrelated problems within the robotics community, given that all robots are governed by the same fundamental laws of physics.
+
+End-to-end:
+> ([[AmatoEtAl_DataWill_ICRA2025.pdf#page=1&selection=70,9,89,26&color=yellow|AmatoEtAl_DataWill_ICRA2025, p.1]])
+> However, since 2012, advances in deep “neural” networks that combine unprecedented amounts of example data, advances in stochastic gradient descent techniques, and advances in computing, in particular GPUs (graphics processing units), have produced remarkable results in computer vision and speech recognition. And with the emergence of ChatGPT and associated large vision language models (VLMs) in 2022, with associated advances in natural language processing and denoising diffusion methods, the paradigm of “end-to-end” (also known as “modelfree”) approaches to perception and control suggest an entirely new, data-driven approach to robotics and automation
+
+
 ### [[Biever_TheEasyIntelligentTest_Nature2023.pdf]]
 
 source:: Celeste Biever, “The easy intelligence tests that AI chatbots fail”, *Nature*, Vol. 619, 27 July 2023.  
@@ -47,6 +60,24 @@ keywords:: [[02_Emne_2_Datalogi_KI_og_robotteknologi|Large Language Models / LLM
 - Kritisk pointe: artiklen advarer mod [[andre 1#anthropomorphization|anthropomorphization]] — at tolke menneskelignende output som bevis for menneskelignende tænkning.
 - Eksamen-vinkel: brug teksten til at diskutere forholdet mellem performance, forståelse, benchmark-validitet og risikoen ved at overfortolke AI-resultater.
 - Kobling: passer stærkt sammen med Turing, AI, [[02_Emne_2_Datalogi_KI_og_robotteknologi|embodiment]], og diskussionen om symbolsk/subsymbolsk intelligens.
+
+> ([[Biever_TheEasyIntelligentTest_Nature2023.pdf#page=1&selection=43,0,52,37&color=yellow|Biever_TheEasyIntelligentTest_Nature2023, p.686]])
+> For chatbots built on LLMs, there is an extra element: human trainers have provided extensive feedback to tune how the bots respond. What’s striking is the breadth of capabilities that emerges from this autocomplete-like algorithm trained on vast stores of human language. Other AI systems might beat the LLMs at any one task, but they have to be trained on data relevant to a specific problem, and cannot generalize from one task to another.
+
+
+> ([[Biever_TheEasyIntelligentTest_Nature2023.pdf#page=1&selection=62,0,68,13&color=yellow|Biever_TheEasyIntelligentTest_Nature2023, p.686]])
+> “There’s very good smart people on all sides of this debate,” says Ullman. The reason for the split, he says, is a lack of conclusive evidence supporting either opinion. “There’s no Geiger counter we can point at something and say ‘beep beep beep — yes, intelligent’,” Ullman adds.
+
+> ([[Biever_TheEasyIntelligentTest_Nature2023.pdf#page=1&selection=106,0,113,12&color=yellow|Biever_TheEasyIntelligentTest_Nature2023, p.686]])
+> Turing did not specify many details about the scenario, notes Mitchell, so there is no exact rubric to follow. “It was not meant as a literal test that you would actually run on the machine — it was more like a thought experiment,” says François Chollet, a software engineer at Google who is based in Seattle, Washington.
+
+"Eksamener indikerer generel intelligens ved at teste kognitive færdigheder som problemløsning, kritisk tanke, hukommelse og tilpasningsevne. De måler, hvordan en person forstår komplekse sammenhænge og anvender viden, snarere end blot evnen til udenadslære."
+
+> ([[Biever_TheEasyIntelligentTest_Nature2023.pdf#page=4&selection=15,0,29,8&color=yellow|Biever_TheEasyIntelligentTest_Nature2023, p.689]])
+> Bowman, however, says GPT-4’s struggles with ConceptARC don’t prove that it lacks underlying capabilities in abstract reasoning. He says ConceptARC is skewed against GPT-4 — among other things, because it is a visual test. “Even if you suppose that these models are very good at this kind of reasoning, I don’t think you’d really expect this experiment to have worked,” he says. Limitations to the way the test is done probably made it harder for GPT-4. The publicly available version of the LLM can accept only text as an input, so the researchers gave GPT-4 arrays of numbers that represented the images. 
+
+> ([[Biever_TheEasyIntelligentTest_Nature2023.pdf#page=4&selection=105,0,111,19&color=yellow|Biever_TheEasyIntelligentTest_Nature2023, p.689]])
+> “There’s no Rubicon, no one line,” he says. Rather, he thinks that researchers need lots of tests to quantify the strengths and weaknesses of various systems. “These agents are great, but they break in many, many ways and probing them systematically is absolutely critical,” he says.
 
 ### [[ANewHeavenAndNewEarth.pdf]]
 

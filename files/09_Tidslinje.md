@@ -75,41 +75,41 @@ scope: "Alle 4 artikler + alle 4 slidesæt"
 
 ## Sen 1500-tal og det 17. århundrede
 
-| År | Begivenhed | Reference |
-|---|---|---|
-| **1564** | **Galileo Galilei** født. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1571** | **Johannes Kepler** født. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| ca. **1580** | **Golem af Prag**-legenden. | *[[06_Emne2_DataKIRobot]]* |
-| **1596** | **René Descartes** født. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1609** | Kepler publicerer **1. og 2. lov** for planetbevægelse. Galilei begynder teleskopobservationer. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1610** | 🌟 **Galileos *The Starry Messenger***. Beskriver bjerge på Månen, Jupiters måner, Venus' faser, solpletter. | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1616** | Inkvisitionen fordømmer Copernicanismen. Galileo må afsværge den. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1618** | Descartes indrullerer sig i Maurice af Nassaus hær — for ro til at tænke. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **10. november 1619** | Descartes' **mystiske vision** om et rationelt-matematisk system. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1620** | **Francis Bacon's *The Great Instauration*** udgivet. Induktiv metode. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1623** | **Margaret Cavendish** og **Blaise Pascal** født. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1628** | **William Harveys *On the Motion of the Heart and Blood***. Blodets cirkulation. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1632** | **Galileos *Dialogue on the Two Chief World Systems***. På italiensk for at nå bredt publikum. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1633** | Galileo dømt af inkvisitionen — husarrest resten af livet (*"Eppur si muove"* — legendarisk). | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1637** | **Descartes' *Discourse on Method***. *Cogito, ergo sum*. | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1641** | Descartes' *Meditationer*. Cogito uddybes. | *[[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1642** | Galileo dør. **Isaac Newton** født samme år. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1644** | **Ole Rømer** født — kommer senere til at lave første måling af lysets hastighed. | *[[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1646** | **Gottfried Wilhelm Leibniz** født. | *[[06_Emne2_DataKIRobot]]* |
-| **1647** | **Maria Sibylla Merian** født — bliver vigtig entomolog. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **23. november 1654** | **Pascals mystiske vision**. Forlader resten af livet til religion. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1662** | **Royal Society** charteres af Charles II. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1665** | ***Journal des Savants*** og ***Philosophical Transactions*** lanceres — første videnskabelige tidsskrifter. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1666** | Newtons *annus mirabilis* (Cambridge lukkes pga. pest): calculus, optik, gravitation. **Den franske Royal Academy of Sciences** anerkendes af Ludvig XIV. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1667** | **Pariser-observatoriet** bygget. **Giovanni Girolamo Saccheri** født — kommer til at udvikle dele af ikke-euklidisk geometri. | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1668** | **Margaret Cavendish' *Grounds of Natural Philosophy***. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1669** | **Pascals *Pensées*** udgives (posthumt). | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1670** | **Maria Winkelmann** født — tysk astronom. | *[[02a_NewHeavenNewEarth_Personer]]* |
-| **1675** | **Greenwich Observatoriet** bygget. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1676** | **Ole Rømer** måler lysets hastighed via Jupiters måner. Estimat: ~230.000 km/s. | *[[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1677** | **Spinozas *Ethics*** udgives (posthumt). Panteisme. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
-| **1687** | 🌟 **Newtons *Principia Mathematica*** — tre love, universel gravitation. *Sidste store videnskabelige værk på latin*. | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
-| **1700** | **Berlin Scientific Academy** grundlagt af elektoren af Brandenburg. | *[[02_NewHeavenNewEarth_Hovedfil]]* |
+| År                    | Begivenhed                                                                                                                                                | Reference                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **1564**              | **Galileo Galilei** født.                                                                                                                                 | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1571**              | **Johannes Kepler** født.                                                                                                                                 | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| ca. **1580**          | **Golem af Prag**-legenden.                                                                                                                               | *[[06_Emne2_DataKIRobot]]*                                           |
+| **1596**              | **René Descartes** født.                                                                                                                                  | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1609**              | Kepler publicerer **1. og 2. lov** for planetbevægelse. Galilei begynder teleskopobservationer.                                                           | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1610**              | 🌟 **Galileos *The Starry Messenger***. Beskriver bjerge på Månen, Jupiters måner, Venus' faser, solpletter.                                              | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
+| **1616**              | Inkvisitionen fordømmer Copernicanismen. Galileo må afsværge den.                                                                                         | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1618**              | Descartes indrullerer sig i Maurice af Nassaus hær — for ro til at tænke.                                                                                 | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **10. november 1619** | Descartes' **mystiske vision** om et rationelt-matematisk system.                                                                                         | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1620**              | **Francis Bacon's *The Great Instauration*** udgivet. Induktiv metode.                                                                                    | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1623**              | **Margaret Cavendish** og **Blaise Pascal** født.                                                                                                         | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1628**              | **William Harveys *On the Motion of the Heart and Blood***. Blodets cirkulation.                                                                          | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1632**              | **Galileos *Dialogue on the Two Chief World Systems***. På italiensk for at nå bredt publikum.                                                            | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1633**              | Galileo dømt af inkvisitionen — husarrest resten af livet (*"Eppur si muove"* — legendarisk).                                                             | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1637**              | **Descartes' *Discourse on Method***. *Cogito, ergo sum*.                                                                                                 | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
+| **1641**              | Descartes' *Meditationer*. Cogito uddybes.                                                                                                                | *[[07_Emne4_EuklidEinsteinKuhn]]*                                    |
+| **1642**              | Galileo dør. **Isaac Newton** født samme år.                                                                                                              | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1644**              | **Ole Rømer** født — kommer senere til at lave første måling af lysets hastighed.                                                                         | *[[07_Emne4_EuklidEinsteinKuhn]]*                                    |
+| **1646**              | **Gottfried Wilhelm Leibniz** født.                                                                                                                       | *[[06_Emne2_DataKIRobot]]*                                           |
+| **1647**              | **Maria Sibylla Merian** født — bliver vigtig entomolog.                                                                                                  | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **23. november 1654** | **Pascals mystiske vision**. Forlader resten af livet til religion.                                                                                       | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1662**              | **Royal Society** charteres af Charles II.                                                                                                                | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1665**              | ***Journal des Savants*** og ***Philosophical Transactions*** lanceres — første videnskabelige tidsskrifter.                                              | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1666**              | Newtons *annus mirabilis* (Cambridge lukkes pga. pest): calculus, optik, gravitation. **Den franske Royal Academy of Sciences** anerkendes af Ludvig XIV. | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1667**              | **Pariser-observatoriet** bygget. **Giovanni Girolamo Saccheri** født — kommer til at udvikle dele af ikke-euklidisk geometri.                            | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
+| **1668**              | **Margaret Cavendish' *Grounds of Natural Philosophy***.                                                                                                  | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1669**              | **Pascals *Pensées*** udgives (posthumt).                                                                                                                 | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1670**              | **Maria Winkelmann** født — tysk astronom.                                                                                                                | *[[02a_NewHeavenNewEarth_Personer]]*                                 |
+| **1675**              | **Greenwich Observatoriet** bygget.                                                                                                                       | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1676**              | **Ole Rømer** måler lysets hastighed via Jupiters måner. Estimat: ~230.000 km/s.                                                                          | *[[07_Emne4_EuklidEinsteinKuhn]]*                                    |
+| **1677**              | **Spinozas *Ethics*** udgives (posthumt). Panteisme.                                                                                                      | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
+| **1687**              | 🌟 **Newtons *Principia Mathematica*** — tre love, universel gravitation. *Sidste store videnskabelige værk på latin*.                                    | *[[02_NewHeavenNewEarth_Hovedfil]], [[07_Emne4_EuklidEinsteinKuhn]]* |
+| **1700**              | **Berlin Scientific Academy** grundlagt af elektoren af Brandenburg.                                                                                      | *[[02_NewHeavenNewEarth_Hovedfil]]*                                  |
 
 ---
 

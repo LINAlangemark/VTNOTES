@@ -1,0 +1,2 @@
+
+Evolutionsteorien beskriver udvikling på baggrund af naturlig selektion. Det som udvikler sig fra noget andet kommer derfor ikke "tættere på perfektion", men er måske mere egnet til det pågældende miljø. 

@@ -44,6 +44,8 @@ _And since it is no less contradictory that the more perfect should result from,
 
 Evolution viser, at det komplekse opstår fra det simple gennem naturlig udvælgelse. Bevidsthed er derfor et biologisk resultat af gradvis udvikling, ikke en guddommelig gave fra en perfekt kilde.
 
+**"Evolutionsteorien beskriver udvikling på baggrund af naturlig selektion. Det som udvikler sig fra noget andet kommer derfor ikke "tættere på perfektion", men er måske mere egnet til det pågældende miljø. "**
+
 **MCQ4**
 
 _Nævn to hypoteser, der kunne udledes af Darwins teori, og som blev bekræftet efter Darwins død. (max 40 ord)_

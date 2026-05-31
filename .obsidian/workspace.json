@@ -4,73 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "86871ce162c9ce27",
+        "id": "575b5ac9e1e03596",
         "type": "tabs",
         "children": [
           {
-            "id": "57b34ab7ba280393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emne 3/VidenskabensFremkomst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VidenskabensFremkomst"
-            }
-          },
-          {
-            "id": "ad3ef5b6827e7f3f",
+            "id": "3adb7ebfecb15e7b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AmatoEtAl_DataWill_ICRA2025.pdf",
-                "page": 1,
-                "left": 1,
-                "top": 387,
-                "zoom": 1.7
+                "file": "Emne 5/Emne5_AtomerBombenEtikV2.pdf",
+                "page": 41,
+                "left": -12,
+                "top": 523,
+                "zoom": 1.2078125
               },
               "icon": "lucide-file-text",
-              "title": "AmatoEtAl_DataWill_ICRA2025"
-            }
-          },
-          {
-            "id": "6e24a6ff54907289",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ALLSLIDES/Aanen_EvolutionTheory.pdf",
-                "page": 4,
-                "left": -21,
-                "top": 52,
-                "zoom": 0.7073863636363636
-              },
-              "icon": "lucide-file-text",
-              "title": "Aanen_EvolutionTheory"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4d3ee9b65335b09a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5634b2d39b48fbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generelle Kursusnoter/Eksamens Litteratur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eksamens Litteratur"
+              "title": "Emne5_AtomerBombenEtikV2"
             }
           }
         ]
@@ -105,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "koper",
+                "query": "intensi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,45 +188,46 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "57b34ab7ba280393",
+  "active": "4234bfed5eb7b07e",
   "lastOpenFiles": [
-    "keyword_library/andre 1.md",
-    "Emne 3/3_emne.md",
-    "Emne 3/VidenskabensFremkomst.md",
-    "Generelle Kursusnoter/Eksamens Litteratur.md",
-    "keyword_library/03_Videnskabens_fremkomst.md",
-    "files/02b_NewHeavenNewEarth_Begreber.md",
-    "files/02a_NewHeavenNewEarth_Personer.md",
-    "files/02_NewHeavenNewEarth_Hovedfil.md",
-    "keyword_library/andre.md",
-    "ALLSLIDES/Emne3_VidenskabensFremkomst.pdf",
-    "keyword_library/02_Emne_2_Datalogi_KI_og_robotteknologi.md",
-    "Emne 2/MCQ_EMNE2.pdf",
-    "Emne 2/Emne2_DataKIRobotV4.pdf",
-    "ALLSLIDES/Aanen_EvolutionTheory.pdf",
-    "Emne 3/Aanen_EvolutionTheory.md",
-    "Emne 3/JonathanSmith_HuxleyWilberforceDebate 1.pdf",
-    "Emne 3/Miller-PublicAcceptanceEvolutionScience-2006.pdf",
-    "Emne 3/Orr on Darwin 2009.pdf",
-    "Emne 2/Emne2_DataKIRobotV4.md",
-    "Emne 2/Noter til Data will solve robotics and automation True or false A debate.md",
-    "files/03_Biever_AIIntelligenceTest.md",
+    "MCQ",
+    "MCQ/MCQ_EMNE9.pdf",
+    "Emne 9/9_Fremtidens_Teknologier_og_menneskehedens_fremtid.md",
+    "Emne 9/Emne9_FremtidensTeknologierV4.md",
     "files/01_Amato_DataWillSolveRobotics.md",
-    "files/04_Kennefick_1919Eclipse.md",
-    "files",
-    "Generelle Kursusnoter/Korrekte svar til åbne spørgsmål (Videnskabsteori FA 2026).md",
-    "Emne 1/assets/Pasted image 20260531111106.png",
-    "Emne 1/assets",
-    "Emne 1/O. Stæhr-Nielsens keramikrelief Videnskabernes Træ.md",
-    "Emne 1/O-Stæhr-Nielsens keramikrelief Videnskabernes Trae.pdf",
-    "Generelle Kursusnoter/Oversigter.md",
+    "files/10_Holdningsoversigt.md",
+    "files/05_Emne1_HvadErVidenskabsteori.md",
+    "files/08_Aanen_EvolutionTheory.md",
+    "keyword_library/07_Universitetshistorie.md",
+    "MCQ/MCQ_5.pdf",
+    "Emne 6/e6_litteratur_videoer.md",
+    "Emne 6/6_emne.md",
+    "Generelle Kursusnoter/Eksamens Litteratur.md",
     "Generelle Kursusnoter/Course_Overview.md",
-    "Generelle Kursusnoter/Eksamen.md",
-    "Emne 2/e2_litteratur_videoer.md",
-    "Emne 2/2_emne.md",
-    "Generelle Kursusnoter/**Korrekte svar til åbne spørgsmål (Videnskabsteori FA 2026)**.md",
-    "Untitled.md",
-    "Emne 2/Noter til The Easy Intelligence Tests That AI Chatbots Fail.md",
+    "Generelle Kursusnoter/Kursus Struktur.md",
+    "ALLSLIDES/etik.pdf",
+    "ALLSLIDES/universitetshistorie.pdf",
+    "Emne 6/RethinkingEngineeringEducationChapter10.pdf",
+    "Emne 6/universitetshistorie.pdf",
+    "files/09_Tidslinje.md",
+    "keyword_library/andre 1.md",
+    "keyword_library/andre.md",
+    "MCQ/MCQ_EMNE4.pdf",
+    "MCQ/MCQ_midt.pdf",
+    "Emne 5/Emne5_AtomerBombenEtikV2.pdf",
+    "Emne 5/MCQ_midt.md",
+    "Emne 4/Emne4_EuklidEinsteinKuhnV2.md",
+    "keyword_library/01_Emne_1_Hvad_er_videnskabsteori.md",
+    "files/07_Emne4_EuklidEinsteinKuhn.md",
+    "Emne 4/4_emne.md",
+    "files/02b_NewHeavenNewEarth_Begreber.md",
+    "files/02_NewHeavenNewEarth_Hovedfil.md",
+    "Emne 4/mcq_emne_4.pdf",
+    "keyword_library/05_Emne_4_Euklid_Einstein_og_Kuhn.md",
+    "files/04_Kennefick_1919Eclipse.md",
+    "Generelle Kursusnoter/Korrekte svar til åbne spørgsmål (Videnskabsteori FA 2026).md",
+    "images/Pasted image 20260531135716.png",
+    "Emne 1/assets/Pasted image 20260531111106.png",
     "Emne 1/Test information and results - itslearning_files/caret-up-square--gray--700.203a8548.svg",
     "Emne 1/Test information and results - itslearning_files/bell--gray--700.cdd6993e.svg",
     "Emne 1/Test information and results - itslearning_files/bars-square--gray--700.03cfb649.svg",
@@ -285,7 +235,6 @@
     "Emne 1/Test information and results - itslearning_files/900937_480884_638301333778762145_64.png",
     "Emne 1/Test information and results - itslearning_files/ViewLearningToolElement_data/title-edit-ok16.png",
     "Emne 1/Test information and results - itslearning_files/ViewLearningToolElement_data/test.b32caf75.svg",
-    "Emne 1/Test information and results - itslearning_files/circle-question--gray--900.de33c4f5.svg",
-    "Emne 1/Test information and results - itslearning_files/caret-down-square--gray--700.6ce771dd.svg"
+    "Emne 1/Test information and results - itslearning_files/circle-question--gray--900.de33c4f5.svg"
   ]
 }

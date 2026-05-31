@@ -221,26 +221,26 @@ scope: "Alle 4 artikler + alle 4 slidesæt"
 
 # 🧠 Deep Learning og LLM-æraen (2010–nu)
 
-| År | Begivenhed | Reference |
-|---|---|---|
-| **2012** | Ifølge Amato et al.: dybe neurale netværk begynder at dominere computer vision og talegenkendelse (det år, ImageNet-gennembruddet skete). | *[[01_Amato_DataWillSolveRobotics]]* |
-| **2013** | Filmen ***Her***. **Bostrom-survey**: hvornår vil maskiner kunne udføre de fleste menneskelige erhverv lige så godt som et menneske? 10 % i 2024; 50 % i 2050; 90 % i 2070. | *[[06_Emne2_DataKIRobot]]* |
-| **2014** | Filmen ***Ex Machina***. | *[[06_Emne2_DataKIRobot]]* |
-| **14. september 2015** | 🌟 **Første observation af gravitationsbølger** ved LIGO — binært system af sorte huller. Endelig direkte verifikation af generel relativitet's forudsigelser. | *[[07_Emne4_EuklidEinsteinKuhn]]* |
-| **2018** | Cardon et al.: *Neurons Spike Back* — historisk analyse af kampen mellem symbolske og subsymbolske metoder. | *[[06_Emne2_DataKIRobot]]* |
-| **2020** | **Loebner-prisen stopper** efter stifterens død. **ARC-konkurrence** (Chollet) — vinder-bot får 21 % rigtigt; mennesker 80 %. | *[[03_Biever_AIIntelligenceTest]]* |
-| **30. november 2022** | 🌟 **ChatGPT lanceres** af OpenAI. Baseret på Large Language Models. | *[[03_Biever_AIIntelligenceTest]], [[06_Emne2_DataKIRobot]]* |
-| **Marts 2023** | **Bubeck et al.**: *Sparks of Artificial General Intelligence: Early experiments with GPT-4* (preprint). | *[[03_Biever_AIIntelligenceTest]]* |
-| **Maj 2023** | **AI21 Labs Turing-test-spil**: 1,5 mio. spillere; bots identificeret korrekt kun 60 % af tiden. **ConceptARC** (Mitchell et al.): GPT-4 får 33 %; mennesker 91 %. | *[[03_Biever_AIIntelligenceTest]]* |
-| **27. juli 2023** | 🌟 **Biever's Nature-feature** *"The easy intelligence tests that AI chatbots fail"* — pensumartikel i SDU-kurset. | *[[03_Biever_AIIntelligenceTest]], [[06_Emne2_DataKIRobot]]* |
-| **2024** | ChatGPT blandt 10 mest besøgte hjemmesider på verdensplan (juli 2024). | *[[06_Emne2_DataKIRobot]]* |
-| **Februar 2023 og 25.2.2023** | Feike Sijbesma's Darwin-citat i Trouw (eksempel på "evolution som verdenssyn"). | *[[08_Aanen_EvolutionTheory]]* |
-| **3.2.2025 – 14.4.2025** | 🌟 **SDU-kurset *Ingeniørfagets Videnskabsteori*** afholdes af Norbert Krüger + Lauge Solvang + gæster (Aanen, Dolriis). | *[[05_Emne1_HvadErVidenskabsteori]]* |
-| **24.2.2025** | **Duur Aanens gæsteforelæsning** om evolution (online). | *[[08_Aanen_EvolutionTheory]]* |
-| **17.3.2025** | **Emne 4-forelæsning:** Euklid, Einstein, Kuhn. | *[[07_Emne4_EuklidEinsteinKuhn]]* |
-| **26.–29. maj 2025** | 🌟 **ICRA 2025** i Atlanta. **Debatten "Data Will Solve Robotics and Automation"** modereret af Goldberg; debattører: Garg, Billard, Rus, Tedrake, Kaelbling, Park. Pensum-artikel i SDU-kurset. | *[[01_Amato_DataWillSolveRobotics]], [[06_Emne2_DataKIRobot]]* |
-| **27. august 2025** | **Amato et al.** publicerer debatten i *Science Robotics*. | *[[01_Amato_DataWillSolveRobotics]]* |
-| **2025+** | Magnus Carlsen's Elo-rating: 2831. Computere er for længst udenfor menneskelig skak-rækkevidde, men har stadig problemer med abeeksperimenter. | *[[06_Emne2_DataKIRobot]]* |
+| År                            | Begivenhed                                                                                                                                                                                       | Reference                                                      |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| **2012**                      | Ifølge Amato et al.: dybe neurale netværk begynder at dominere computer vision og talegenkendelse (det år, ImageNet-gennembruddet skete).                                                        | *[[01_Amato_DataWillSolveRobotics]]*                           |
+| **2013**                      | Filmen ***Her***. **Bostrom-survey**: hvornår vil maskiner kunne udføre de fleste menneskelige erhverv lige så godt som et menneske? 10 % i 2024; 50 % i 2050; 90 % i 2070.                      | *[[06_Emne2_DataKIRobot]]*                                     |
+| **2014**                      | Filmen ***Ex Machina***.                                                                                                                                                                         | *[[06_Emne2_DataKIRobot]]*                                     |
+| **14. september 2015**        | 🌟 **Første observation af gravitationsbølger** ved LIGO — binært system af sorte huller. Endelig direkte verifikation af generel relativitet's forudsigelser.                                   | *[[07_Emne4_EuklidEinsteinKuhn]]*                              |
+| **2018**                      | Cardon et al.: *Neurons Spike Back* — historisk analyse af kampen mellem symbolske og subsymbolske metoder.                                                                                      | *[[06_Emne2_DataKIRobot]]*                                     |
+| **2020**                      | **Loebner-prisen stopper** efter stifterens død. **ARC-konkurrence** (Chollet) — vinder-bot får 21 % rigtigt; mennesker 80 %.                                                                    | *[[03_Biever_AIIntelligenceTest]]*                             |
+| **30. november 2022**         | 🌟 **ChatGPT lanceres** af OpenAI. Baseret på Large Language Models.                                                                                                                             | *[[03_Biever_AIIntelligenceTest]], [[06_Emne2_DataKIRobot]]*   |
+| **Marts 2023**                | **Bubeck et al.**: *Sparks of Artificial General Intelligence: Early experiments with GPT-4* (preprint).                                                                                         | *[[03_Biever_AIIntelligenceTest]]*                             |
+| **Maj 2023**                  | **AI21 Labs Turing-test-spil**: 1,5 mio. spillere; bots identificeret korrekt kun 60 % af tiden. **ConceptARC** (Mitchell et al.): GPT-4 får 33 %; mennesker 91 %.                               | *[[03_Biever_AIIntelligenceTest]]*                             |
+| **27. juli 2023**             | 🌟 **Biever's Nature-feature** *"The easy intelligence tests that AI chatbots fail"* — pensumartikel i SDU-kurset.                                                                               | *[[03_Biever_AIIntelligenceTest]], [[06_Emne2_DataKIRobot]]*   |
+| **2024**                      | ChatGPT blandt 10 mest besøgte hjemmesider på verdensplan (juli 2024).                                                                                                                           | *[[06_Emne2_DataKIRobot]]*                                     |
+| **Februar 2023 og 25.2.2023** | Feike Sijbesma's Darwin-citat i Trouw (eksempel på "evolution som verdenssyn").                                                                                                                  | *[[08_Aanen_EvolutionTheory]]*                                 |
+| **3.2.2025 – 14.4.2025**      | 🌟 **SDU-kurset *Ingeniørfagets Videnskabsteori*** afholdes af Norbert Krüger + Lauge Solvang + gæster (Aanen, Dolriis).                                                                         | *[[05_Emne1_HvadErVidenskabsteori]]*                           |
+| **24.2.2025**                 | **Duur Aanens gæsteforelæsning** om evolution (online).                                                                                                                                          | *[[08_Aanen_EvolutionTheory]]*                                 |
+| **17.3.2025**                 | **Emne 4-forelæsning:** Euklid, Einstein, Kuhn.                                                                                                                                                  | *[[07_Emne4_EuklidEinsteinKuhn]]*                              |
+| **26.–29. maj 2025**          | 🌟 **ICRA 2025** i Atlanta. **Debatten "Data Will Solve Robotics and Automation"** modereret af Goldberg; debattører: Garg, Billard, Rus, Tedrake, Kaelbling, Park. Pensum-artikel i SDU-kurset. | *[[01_Amato_DataWillSolveRobotics]], [[06_Emne2_DataKIRobot]]* |
+| **27. august 2025**           | **Amato et al.** publicerer debatten i *Science Robotics*.                                                                                                                                       | *[[01_Amato_DataWillSolveRobotics]]*                           |
+| **2025+**                     | Magnus Carlsen's Elo-rating: 2831. Computere er for længst udenfor menneskelig skak-rækkevidde, men har stadig problemer med abeeksperimenter.                                                   | *[[06_Emne2_DataKIRobot]]*                                     |
 
 ---
 

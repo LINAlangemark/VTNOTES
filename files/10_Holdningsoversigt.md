@@ -72,12 +72,12 @@ Alle tre var **rationalister** i den forstand at de mente, fornuften er nøglen 
 
 ## Descartes vs. Bacon — deduktion vs. induktion
 
-| | **Descartes** | **Bacon** (1561–1626) |
-|---|---|---|
-| **Metode** | **Deduktiv**, fra selvevidente sandheder | **Induktiv**, fra observation til generalisering |
-| **Forhold til antik autoritet** | Begynder forfra med tvivl | Forkastede Copernicus og Kepler; misforstod Galileo, men afviste autoritet på princip |
-| **Mål** | Forstå universet via matematisk logik | *"That human life be endowed with new discoveries and power"* — praktisk anvendelse |
-| **Forhold til naturen** | Naturen som geometrisk maskine, kan forstås via fornuft | *"Conquer nature in action"* — herredømme over naturen |
+|                                 | **Descartes**                                           | **Bacon** (1561–1626)                                                                 |
+| ------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Metode**                      | **Deduktiv**, fra selvevidente sandheder                | **Induktiv**, fra observation til generalisering                                      |
+| **Forhold til antik autoritet** | Begynder forfra med tvivl                               | Forkastede Copernicus og Kepler; misforstod Galileo, men afviste autoritet på princip |
+| **Mål**                         | Forstå universet via matematisk logik                   | *"That human life be endowed with new discoveries and power"* — praktisk anvendelse   |
+| **Forhold til naturen**         | Naturen som geometrisk maskine, kan forstås via fornuft | *"Conquer nature in action"* — herredømme over naturen                                |
 
 > Bacons og Descartes' metoder var to forskellige svar på samme problem. Newton **forenede** dem til den moderne videnskabelige metode: "Newton synthesized them into a single scientific methodology by uniting Bacon's empiricism with Descartes's rationalism." — *[[02_NewHeavenNewEarth_Hovedfil]]*
 

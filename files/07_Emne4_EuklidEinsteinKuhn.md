@@ -122,6 +122,7 @@ Den korteste afstand mellem to punkter:
 Amerikansk fysiker og videnskabshistoriker. Hovedværk: *The Structure of Scientific Revolutions* (1962). Indførte begrebet **paradigmeskifte**.
 
 ### Kuhns fem faser
+keyword:  kuhns-faser, kuhn-faser, kuhn-fem-faser, kuhns-fem-faser
 
 | Fase | Beskrivelse |
 |------|-------------|

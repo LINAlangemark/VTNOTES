@@ -1,0 +1,1 @@
+paradigmeksift er når der sker en stor kulturel eller fundamental ændring i måden hvorpå et eller andet fungere på, såsom eisnteins relativitetsteori vs newton.

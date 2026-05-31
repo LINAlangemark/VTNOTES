@@ -1,5 +1,5 @@
 
-[[EXAM LITERATURE]]
+[Eksamens Litteratur](Eksamens%20Litteratur.md)
 
 
 _Hvad er videnskab og hvad er videnskabsteori?_ _Videnskabens udvikling_
